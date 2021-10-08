@@ -1,0 +1,68 @@
+<backdrops gfxroot="gfx/backdrop/" 
+           secondscreengfxroot="gfx/ui/bottomscreen_backgrounds/">
+	<backdrop id="1" gfx="01_Basement.png" 
+            secondscreengfx="01_Basement_3ds.png" 
+            walls="1" wallvariants="3" floors="1" floorvariants="6" />
+	<backdrop id="2" gfx="02_Cellar.png"
+            secondscreengfx="02_Cellar_3ds.png" 
+            walls="2" wallvariants="2" floors="1" floorvariants="6" />
+	<backdrop id="3" gfx="03_Caves_3ds.png"
+            secondscreengfx="03_Caves_3ds.png"
+            walls="2" wallvariants="3" floors="2" floorvariants="3" />
+	<backdrop id="4" gfx="04_Catacombs.png"
+            secondscreengfx="04_Catacombs_3ds.png"
+            walls="2" wallvariants="2" floors="3" floorvariants="2" />
+	<backdrop id="5" gfx="05_Depths.png"
+            secondscreengfx="05_Depths_3ds.png"
+            walls="1" wallvariants="3" floors="1" floorvariants="6" />
+	<backdrop id="6" gfx="06_Necropolis.png"
+            secondscreengfx="06_Necropolis_3ds.png"
+            walls="1" wallvariants="3" floors="1" floorvariants="6" />
+	<backdrop id="7" gfx="07_The Womb.png"
+            secondscreengfx="07_The Womb_3ds.png"
+            walls="1" wallvariants="3" floors="1" floorvariants="6" />
+	<backdrop id="8" gfx="08_Utero.png"
+            secondscreengfx="08_Utero_3ds.png"
+            walls="1" wallvariants="6" floors="1" floorvariants="6" />
+	<backdrop id="9" gfx="09_Sheol.png"
+            secondscreengfx="09_Sheol_3ds.png"
+            walls="1" wallvariants="3" floors="1" floorvariants="6" />
+	<backdrop id="10" gfx="10_Cathedral.png"
+            secondscreengfx="10_Cathedral_3ds.png" 
+            walls="1" wallvariants="3" floors="5" floorvariants="1" />
+	<backdrop id="11" gfx="12_DarkRoom.png"
+            secondscreengfx="12_DarkRoom_3ds.png"
+            walls="0" wallvariants="0" floors="1" floorvariants="4" />
+	<backdrop id="12" gfx="11_Chest.png"
+            secondscreengfx="11_Chest_3ds.png"
+            walls="1" wallvariants="4" floors="1" floorvariants="4" />
+	<backdrop id="13" gfx="Mega_Satan_Land.anm2"
+            secondscreengfx="12_DarkRoom_3ds.png"
+            walls="0" wallvariants="0" floors="1" floorvariants="4" />
+	<backdrop id="14" gfx="0A_Library.png"
+            secondscreengfx="0A_Library_3ds.png"
+            walls="1" wallvariants="3" floors="1" floorvariants="6" />
+	<backdrop id="15" gfx="0B_Shop.png"
+            secondscreengfx="0B_Shop_3ds.png"
+            walls="1" wallvariants="2" floors="1" floorvariants="6" />
+	<backdrop id="16" gfx="0C_IsaacsRoom.png"
+            secondscreengfx="0C_IsaacsRoom_3ds.png"
+            walls="1" wallvariants="2" floors="1" floorvariants="6" />
+	<backdrop id="17" gfx="0D_BarrenRoom.png"
+            secondscreengfx="0D_BarrenRoom_3ds.png"
+            walls="1" wallvariants="2" floors="1" floorvariants="6" />
+	<backdrop id="18" gfx="0F_SecretRoom.png"
+            secondscreengfx="0F_SecretRoom_3ds.png" 
+            walls="1" wallvariants="3" floors="1" floorvariants="6" />
+	<backdrop id="19" gfx="0E_DiceRoom.png"
+            secondscreengfx="0E_DiceRoom_3ds.png"
+            walls="1" wallvariants="4" floors="1" floorvariants="6" />
+	<backdrop id="20" gfx="0E_Arcade.png"
+            secondscreengfx="0E_Arcade_3ds.png"
+            walls="1" wallvariants="4" floors="1" floorvariants="6" />
+	<backdrop id="21"
+            gfx="effect_error.anm2"
+            secondscreengfx="00_ErrorRoom_3ds.png"/> <!-- special handling -->
+  <backdrop id="22" 
+            secondscreengfx="00_SecretItemDungeon_3ds.png"/> <!-- special handling -->
+</backdrops>

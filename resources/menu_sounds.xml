@@ -1,0 +1,17 @@
+<sounds root="resources/sfx/">
+	<sound id="8">
+		<sample weight="1" path="Book Page Turn 12.wav" />
+	</sound>
+	<sound id="187">
+		<sample weight="1" path="boss2intro_errorbuzz.wav" />
+	</sound>
+	<sound id="194">
+		<sample weight="1" path="character_select_left.wav" />
+	</sound>
+	<sound id="195">
+		<sample weight="1" path="character_select_right.wav" />
+	</sound>
+	<sound id="237">
+		<sample weight="1" path="plop.wav" />
+	</sound>
+</sounds>

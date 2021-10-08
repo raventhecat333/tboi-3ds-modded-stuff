@@ -1,0 +1,34 @@
+<sync>
+	<platform value="PS4">
+		<text upload="Uploading..." download="Downloading..." />
+		<errors>
+			<error id="0" value="" />
+			<error id="1" value="" />
+			<error id="2" value="No data was found" />
+			<error id="3" value="" />
+			<error id="4" value="The data is corrupt" />
+			<error id="5" value="Could not connect to the network" />
+			<error id="6" value="Lost connection to the network" />
+			<error id="7" value="Operation already running, try again later" />
+			<error id="8" value="Not signed in to \"PSN\"" />
+			<error id="9" value="Age verification failed" />
+			<error id="10" value="Application update required to proceed" />
+			<error id="11" value="Unknown error occurred" />
+		</errors>
+	</platform>
+	<platform value="Vita">
+		<text upload="Uploading..." download="Downloading..." />
+		<errors>
+			<error id="0" value="" />
+			<error id="1" value="" />
+			<error id="2" value="No data was found" />
+			<error id="3" value="" />
+			<error id="4" value="The data is corrupt" />
+			<error id="5" value="Could not connect to the network" />
+			<error id="6" value="Operation already running, try again later" />
+			<error id="7" value="Not signed in to \"PSN\"" />
+			<error id="8" value="Age verification failed" />
+			<error id="9" value="Unknown error occurred" />
+		</errors>
+	</platform>
+</syncerrors>
